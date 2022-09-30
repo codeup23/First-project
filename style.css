@@ -21,7 +21,7 @@
 .logo{
     width: 120px;
     cursor: pointer;
-
+    border-radius: 13px;
 }
 .navbar ul li{
     list-style: none;
